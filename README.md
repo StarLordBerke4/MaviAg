@@ -6,7 +6,7 @@
 
 ## 🌐 Canlı Web Sitesi & Demo Bağlantıları
 
-Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif haritayı inceleyebilir ve yapay zeka destekli ihbar sistemini test edebilirsiniz:
+Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif haritayı inceleyebilir ve yapay zeka destekli ihbar sistemini test edebilirsiniz.
 
 - 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://mavi-ag.vercel.app/](https://mavi-ag.vercel.app/)
 
