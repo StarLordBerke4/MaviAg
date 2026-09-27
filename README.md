@@ -8,7 +8,7 @@
 
 Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif haritayı inceleyebilir ve yapay zeka destekli ihbar sistemini test edebilirsiniz:
 
-- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://ais-pre-r3k3aqauogsdvyotz5h3bu-524291745461.europe-west3.run.app](https://ais-pre-r3k3aqauogsdvyotz5h3bu-524291745461.europe-west3.run.app)
+- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://mavi-ag.vercel.app/](https://mavi-ag.vercel.app/)
 
 ---
 
