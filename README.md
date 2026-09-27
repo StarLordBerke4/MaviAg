@@ -16,8 +16,8 @@ Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif h
 
 MaviAğ platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi kurallarına uygun olarak masaüstü, tablet ve mobil cihazlar için özel olarak geliştirilmiştir:
 
-### 1. Canlı Kirlilik Sıcak Noktaları Haritası
-Türkiye kıyılarındaki doğrulanmış kirlilik noktalarının anlık haritası; acil müdahale (kritik), orta ve düşük yoğunluk seviyelerine göre kategorize edilir.
+### 1. MaviAğ Karşılama Portalı & Canlı Sistem
+Platformun vizyonunu aktaran, yapay zeka modelinin atık tespit yeteneğini interaktif simülatör ile kullanıcılara sunan ana giriş kapısıdır. Sayfada anlık olarak toplanan atık miktarı, aktif kirlilik sıcak noktaları ve doğruluk oranları dinamik sayaçlarla sergilenir. Ayrıca projenin işleyiş aşamaları (*AI Tespit Eder ➔ Vatandaş Bildirir ➔ Ekipler Temizler*), destekçi kurumlar, en son ihbarlar ve kıyılarda görev alan gönüllülerin gerçek deneyimleri bu ekranda yer alır.
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
 
@@ -36,10 +36,20 @@ Belediye temizlik filoları ve STK timleri için kirlilik onaylama, reddetme ve 
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/yoneticipaneli.png" alt="yoneticipaneli" width="1200"/></a>
 
-### 5. Mobil ve Tablet Arayüzü (Uygulama Deneyimi)
-Akıllı telefonlar için başparmakla tek elle rahatça kontrol edilebilen yüzen alt uygulama menüsü (App Bar) ve zengin kart menüleri.
+### 5. Deniz Teknolojisi ve Çevre Blogu
+Deniz biyolojisi, sualtı robotikleri, uydu spektroskopisi ve döngüsel ekonomi üzerine hazırlanan özgün makaleleri barındıran bilgi ve farkındalık kütüphanesidir. Akademisyenlerin, denizcilerin ve yapay zeka mühendislerinin hazırladığı araştırmalar; kategorilere göre filtrelenebilir ve özel okuma modalleri üzerinden derinlemesine incelenebilir.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/egitim-fayi-projesi/blob/main/img/Banner.png" alt="Banner" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/blog.png" alt="blog" width="1200"/></a>
+
+### 6. Proje Hakkında
+Projenin doğuş hikayesini, çözdüğü temel sorunları (*Veri Eksikliği, Görünmez Birikimler, Toplumsal Entegrasyon Kopukluğu*) ve sunduğu teknolojik altyapıyı şeffafça ortaya koyan kurumsal tanıtım sayfasıdır. Veri bilimi ve makine öğrenmesi süreçlerinden kullanıcı deneyimi (UI/UX) felsefesine, hedef kitle analizinden temizlik operasyonlarında sağlayacağı zaman/yakıt tasarrufuna kadar projenin tüm etki ve çıktıları burada detaylandırılmıştır.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/hakkinda.png" alt="hakkinda" width="1200"/></a>
+
+### 7. İletişim & İş Birliği
+Belediyelerin temizlik filolarını sisteme entegre etmesi, STK'ların gönüllü ağına katılması ve araştırmacıların açık veri talep edebilmesi için tasarlanan temas noktasıdır. Hızlı mesaj formunun yanı sıra operasyon merkezlerinin adresleri, çalışma saatleri, merak edilen sorulara yanıt veren interaktif SSS bölümü ve acil durumlar için tek dokunuşla aranabilen ulusal deniz hatları yer alır.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/iletisim.png" alt="iletisim" width="1200"/></a>
 
 ---
 
@@ -150,3 +160,6 @@ npm run build
 
 Bu proje, açık veri standartlarına ve deniz ekosistemlerimizin sürdürülebilirliğine katkı sağlamak amacıyla geliştirilmiştir.  
 © 2026 **MaviAğ Platformu** - *Temiz Denizler, Yaşayan Kıyılar.*
+
+---
+*Geliştirici: Berke Mert Öztürk*
