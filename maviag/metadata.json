@@ -1,0 +1,6 @@
+{
+  "name": "MaviAğ - Yapay Zeka ile Deniz Kirliliği Tespit Platformu",
+  "description": "Deniz kirliliğini ve plastik atıkları yapay zeka destekli görüntü işleme ile tespit eden, vatandaş ihbar ve koordinasyon platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
