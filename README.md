@@ -19,41 +19,27 @@ MaviAğ platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi ku
 ### 1. Canlı Kirlilik Sıcak Noktaları Haritası
 Türkiye kıyılarındaki doğrulanmış kirlilik noktalarının anlık haritası; acil müdahale (kritik), orta ve düşük yoğunluk seviyelerine göre kategorize edilir.
 
-```
-+---------------------------------------------------------------------------------+
-|  🗺️ CANLI KİRLİLİK HARİTASI                                                     |
-|  - Anlık GPS Sıcak Noktaları (Marmara, Ege, Akdeniz, Karadeniz)                |
-|  - Akıllı Filtreleme (Atık Türü, Havza, Kirlilik Şiddeti)                       |
-|  - Harita Üzerinde Detaylı Teşhis ve Rota Önizlemesi                            |
-+---------------------------------------------------------------------------------+
-```
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
 
-### 2. Yapay Zeka Destekli İhbar & Atık Analiz Portalı
+### 2. Canlı Kirlilik Sıcak Noktaları Haritası
+Türkiye kıyılarındaki doğrulanmış kirlilik noktalarının anlık haritası; acil müdahale (kritik), orta ve düşük yoğunluk seviyelerine göre kategorize edilir.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/kirlilikharitasi.png" alt="kirlilikharitasi" width="1200"/></a>
+
+### 3. Yapay Zeka Destekli İhbar & Atık Analiz Portalı
 Vatandaşların çektikleri fotoğrafları yükleyebildiği, yapay zekanın atık türünü (pet şişe, ağ, polimer) ve güven skorunu anında tespit ettiği kullanıcı dostu form.
 
-```
-+---------------------------------------------------------------------------------+
-|  🤖 YAPAY ZEKA GÖRÜNTÜ İŞLEME VE İHBAR EKRANI                                   |
-|  - Fotoğraf Yükleme / Canlı Kamera ile Çekim                                    |
-|  - Otomatik Nesne Tespiti (Örn: "PET Şişe Grubu %97", "Hayalet Ağ %94")        |
-|  - Tek Tıkla Cihaz GPS Konumu Eşleme                                            |
-+---------------------------------------------------------------------------------+
-```
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/ihbaret.png" alt="ihbaret" width="1200"/></a>
 
-### 3. Yönetici & Saha Temizlik Ekipleri Sevk Paneli
+### 4. Yönetici & Saha Temizlik Ekipleri Sevk Paneli
 Belediye temizlik filoları ve STK timleri için kirlilik onaylama, reddetme ve en yakın deniz temizleme aracına görev atama konsolu.
 
-```
-+---------------------------------------------------------------------------------+
-|  📊 YÖNETİM & SEVK KONSOLU (DASHBOARD)                                          |
-|  - İhbar Listesi (Mobil Uyumlu Tablo & Kart Izgarası Seçeneği)                  |
-|  - Tek Tıkla Ekip / Bot Görevlendirme ve Sevk                                   |
-|  - Tek Tıkla CSV Formatında Rapor Dışa Aktarımı                                 |
-+---------------------------------------------------------------------------------+
-```
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/yoneticipaneli.png" alt="yoneticipaneli" width="1200"/></a>
 
-### 4. Mobil ve Tablet Arayüzü (Uygulama Deneyimi)
+### 5. Mobil ve Tablet Arayüzü (Uygulama Deneyimi)
 Akıllı telefonlar için başparmakla tek elle rahatça kontrol edilebilen yüzen alt uygulama menüsü (App Bar) ve zengin kart menüleri.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/egitim-fayi-projesi/blob/main/img/Banner.png" alt="Banner" width="1200"/></a>
 
 ---
 
