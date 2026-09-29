@@ -159,6 +159,7 @@ npm run build
 ## 📜 Lisans & Vizyon
 
 Bu proje, açık veri standartlarına ve deniz ekosistemlerimizin sürdürülebilirliğine katkı sağlamak amacıyla geliştirilmiştir.  
+
 © 2026 **MaviAğ Platformu** - *Temiz Denizler, Yaşayan Kıyılar.*
 
 ---
