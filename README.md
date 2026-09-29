@@ -19,37 +19,37 @@ MaviAğ platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi ku
 ### 1. MaviAğ Karşılama Portalı & Canlı Sistem
 Platformun vizyonunu aktaran, yapay zeka modelinin atık tespit yeteneğini interaktif simülatör ile kullanıcılara sunan ana giriş kapısıdır. Sayfada anlık olarak toplanan atık miktarı, aktif kirlilik sıcak noktaları ve doğruluk oranları dinamik sayaçlarla sergilenir. Ayrıca projenin işleyiş aşamaları (*AI Tespit Eder ➔ Vatandaş Bildirir ➔ Ekipler Temizler*), destekçi kurumlar, en son ihbarlar ve kıyılarda görev alan gönüllülerin gerçek deneyimleri bu ekranda yer alır.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
 
 ### 2. Canlı Kirlilik Sıcak Noktaları Haritası
 Türkiye kıyılarındaki doğrulanmış kirlilik noktalarının anlık haritası; acil müdahale (kritik), orta ve düşük yoğunluk seviyelerine göre kategorize edilir.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/kirlilikharitasi.png" alt="kirlilikharitasi" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/kirlilikharitasi.png" alt="kirlilikharitasi" width="1200"/></a>
 
 ### 3. Yapay Zeka Destekli İhbar & Atık Analiz Portalı
 Vatandaşların çektikleri fotoğrafları yükleyebildiği, yapay zekanın atık türünü (pet şişe, ağ, polimer) ve güven skorunu anında tespit ettiği kullanıcı dostu form.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/ihbaret.png" alt="ihbaret" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/ihbaret.png" alt="ihbaret" width="1200"/></a>
 
 ### 4. Yönetici & Saha Temizlik Ekipleri Sevk Paneli
 Belediye temizlik filoları ve STK timleri için kirlilik onaylama, reddetme ve en yakın deniz temizleme aracına görev atama konsolu.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/yoneticipaneli.png" alt="yoneticipaneli" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/yoneticipaneli.png" alt="yoneticipaneli" width="1200"/></a>
 
 ### 5. Deniz Teknolojisi ve Çevre Blogu
 Deniz biyolojisi, sualtı robotikleri, uydu spektroskopisi ve döngüsel ekonomi üzerine hazırlanan özgün makaleleri barındıran bilgi ve farkındalık kütüphanesidir. Akademisyenlerin, denizcilerin ve yapay zeka mühendislerinin hazırladığı araştırmalar; kategorilere göre filtrelenebilir ve özel okuma modalleri üzerinden derinlemesine incelenebilir.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/blog.png" alt="blog" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/blog.png" alt="blog" width="1200"/></a>
 
 ### 6. Proje Hakkında
 Projenin doğuş hikayesini, çözdüğü temel sorunları (*Veri Eksikliği, Görünmez Birikimler, Toplumsal Entegrasyon Kopukluğu*) ve sunduğu teknolojik altyapıyı şeffafça ortaya koyan kurumsal tanıtım sayfasıdır. Veri bilimi ve makine öğrenmesi süreçlerinden kullanıcı deneyimi (UI/UX) felsefesine, hedef kitle analizinden temizlik operasyonlarında sağlayacağı zaman/yakıt tasarrufuna kadar projenin tüm etki ve çıktıları burada detaylandırılmıştır.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/hakkinda.png" alt="hakkinda" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/hakkinda.png" alt="hakkinda" width="1200"/></a>
 
 ### 7. İletişim & İş Birliği
 Belediyelerin temizlik filolarını sisteme entegre etmesi, STK'ların gönüllü ağına katılması ve araştırmacıların açık veri talep edebilmesi için tasarlanan temas noktasıdır. Hızlı mesaj formunun yanı sıra operasyon merkezlerinin adresleri, çalışma saatleri, merak edilen sorulara yanıt veren interaktif SSS bölümü ve acil durumlar için tek dokunuşla aranabilen ulusal deniz hatları yer alır.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/MaviAg/blob/main/img/iletisim.png" alt="iletisim" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/iletisim.png" alt="iletisim" width="1200"/></a>
 
 ---
 
